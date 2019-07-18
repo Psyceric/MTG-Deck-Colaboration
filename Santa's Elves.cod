@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Santa's Elves</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="19" name="Forest"/>
+        <card number="2" name="Nettle Sentinel"/>
+        <card number="1" name="Joraga Warcaller"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Bramblewood Paragon"/>
+        <card number="2" name="Elvish Mystic"/>
+        <card number="3" name="Lys Alana Bowmaster"/>
+        <card number="4" name="Lys Alana Huntmaster"/>
+        <card number="3" name="Jagged-Scar Archers"/>
+        <card number="3" name="Elvish Guidance"/>
+        <card number="1" name="Drove of Elves"/>
+        <card number="2" name="Wirewood Herald"/>
+        <card number="1" name="Roughshod Mentor"/>
+        <card number="1" name="Immaculate Magistrate"/>
+        <card number="2" name="Wellwisher"/>
+        <card number="3" name="Elvish Promenade"/>
+        <card number="1" name="Winnower Patrol"/>
+        <card number="1" name="Elvish Warrior"/>
+        <card number="1" name="Gilt-Leaf Ambush"/>
+        <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="1" name="Heedless One"/>
+        <card number="1" name="Tel-Jilad Archers"/>
+        <card number="4" name="Heritage Druid"/>
+        <card number="1" name="Arbor Elf"/>
+    </zone>
+</cockatrice_deck>

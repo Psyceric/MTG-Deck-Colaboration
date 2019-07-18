@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BRAAAAAIIIIIIIIIINNNNNNNSSSSSSS</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Accursed Horde"/>
+        <card number="1" name="Boneknitter"/>
+        <card number="3" name="Cemetery Reaper"/>
+        <card number="4" name="Death Baron"/>
+        <card number="4" name="Diregraf Captain"/>
+        <card number="1" name="Drunau Corpse Trawler"/>
+        <card number="1" name="Frightshroud Courier"/>
+        <card number="2" name="Gempalm Polluter"/>
+        <card number="1" name="Gravespawn Sovereign"/>
+        <card number="2" name="Lich Lord of Unx"/>
+        <card number="1" name="Lifebane Zombie"/>
+        <card number="4" name="Lord of the Accursed"/>
+        <card number="3" name="Lord of the Undead"/>
+        <card number="1" name="Noxious Ghoul"/>
+        <card number="1" name="Relentless Dead"/>
+        <card number="3" name="Risen Executioner"/>
+        <card number="1" name="Rot Hulk"/>
+        <card number="3" name="Undead Warchief"/>
+        <card number="1" name="Zombie Trailblazer"/>
+        <card number="1" name="Gleaming Overseer"/>
+        <card number="14" name="Swamp"/>
+        <card number="4" name="Island"/>
+        <card number="2" name="Dimir Aqueduct"/>
+    </zone>
+</cockatrice_deck>

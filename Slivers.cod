@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Quilled Sliver"/>
+        <card number="2" name="Megantic Sliver"/>
+        <card number="1" name="Groundshaker Sliver"/>
+        <card number="1" name="Sliversmith"/>
+        <card number="2" name="Sliver Hive"/>
+        <card number="2" name="Sliver Construct"/>
+        <card number="1" name="Forked Bolt"/>
+        <card number="1" name="Striking Sliver"/>
+        <card number="1" name="Spined Sliver"/>
+        <card number="1" name="Spinneret Sliver"/>
+        <card number="1" name="Constricting Sliver"/>
+        <card number="1" name="Battle Sliver"/>
+        <card number="1" name="Steelform Sliver"/>
+        <card number="1" name="Thorncaster Sliver"/>
+        <card number="1" name="Goldnight Commander"/>
+        <card number="1" name="Sidewinder Sliver"/>
+        <card number="1" name="Lymph Sliver"/>
+        <card number="1" name="Homing Sliver"/>
+        <card number="1" name="Might Sliver"/>
+        <card number="1" name="Predatory Sliver"/>
+        <card number="1" name="Hunt the Weak"/>
+        <card number="1" name="Poultice Sliver"/>
+        <card number="1" name="Quick Sliver"/>
+        <card number="1" name="Kazandu Refuge"/>
+        <card number="1" name="Hostile Realm"/>
+        <card number="1" name="Celestial Flare"/>
+        <card number="3" name="Hive Stirrings"/>
+        <card number="1" name="Luminescent Rain"/>
+        <card number="1" name="Sentinel Sliver"/>
+        <card number="1" name="Blur Sliver"/>
+        <card number="8" name="Forest"/>
+        <card number="8" name="Plains"/>
+        <card number="8" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

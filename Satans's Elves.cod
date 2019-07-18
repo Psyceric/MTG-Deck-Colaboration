@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Satans's Elves</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Elvish Archdruid"/>
+        <card number="4" name="Heritage Druid"/>
+        <card number="4" name="Imperious Perfect"/>
+        <card number="2" name="Whispersilk Cloak"/>
+        <card number="1" name="Descendants' Path"/>
+        <card number="2" name="Llanowar Elves"/>
+        <card number="1" name="Elvish Promenade"/>
+        <card number="1" name="Taunting Elf"/>
+        <card number="2" name="Bramblewood Paragon"/>
+        <card number="2" name="Immaculate Magistrate"/>
+        <card number="1" name="Wirewood Pride"/>
+        <card number="1" name="Rhys the Redeemed"/>
+        <card number="1" name="Mercy Killing"/>
+        <card number="2" name="Jagged-Scar Archers"/>
+        <card number="1" name="Wren's Run Vanquisher"/>
+        <card number="1" name="Leaf Gilder"/>
+        <card number="1" name="Elvish Champion"/>
+        <card number="1" name="Heedless One"/>
+        <card number="1" name="Oracle of Nectars"/>
+        <card number="3" name="Nettle Sentinel"/>
+        <card number="1" name="Elvish Harbinger"/>
+        <card number="1" name="Seeker of Skybreak"/>
+        <card number="2" name="Birchlore Rangers"/>
+        <card number="1" name="Thornweald Archer"/>
+        <card number="1" name="Elvish Aberration"/>
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="1" name="Wellwisher"/>
+        <card number="2" name="Timberwatch Elf"/>
+        <card number="1" name="Wirewood Elf"/>
+        <card number="15" name="Forest"/>
+    </zone>
+</cockatrice_deck>

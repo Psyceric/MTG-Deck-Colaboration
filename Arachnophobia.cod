@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Arachnophobia</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ishkanah, Grafwidow"/>
+        <card number="1" name="Stingerfling Spider"/>
+        <card number="1" name="Silklash Spider"/>
+        <card number="2" name="Obelisk Spider"/>
+        <card number="2" name="Penumbra Spider"/>
+        <card number="4" name="Arachnogenesis"/>
+        <card number="1" name="Juvenile Gloomwidow"/>
+        <card number="1" name="Sporecap Spider"/>
+        <card number="1" name="Swift Spinner"/>
+        <card number="1" name="Kessig Recluse"/>
+        <card number="1" name="Netcaster Spider"/>
+        <card number="1" name="Blightwidow"/>
+        <card number="1" name="Watcher in the Web"/>
+        <card number="1" name="Skysnare Spider"/>
+        <card number="2" name="Web"/>
+        <card number="1" name="Aether Web"/>
+        <card number="2" name="Spidersilk Armor"/>
+        <card number="2" name="Canopy Cover"/>
+        <card number="3" name="Spider Umbra"/>
+        <card number="2" name="Gaea's Anthem"/>
+        <card number="1" name="Oath of the Ancient Wood"/>
+        <card number="1" name="Bow of Nylea"/>
+        <card number="1" name="Rite of Passage"/>
+        <card number="12" name="Forest"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Rotwidow Pack"/>
+        <card number="1" name="Frostweb Spider"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="2" name="Deadly Recluse"/>
+    </zone>
+</cockatrice_deck>
