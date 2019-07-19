@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Can't Stop the Rats</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="34" name="Relentless Rats"/>
+        <card number="1" name="Marrow-Gnawer"/>
+        <card number="1" name="Pack Rat"/>
+        <card number="1" name="Ogre Slumlord"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="14" name="Swamp"/>
+        <card number="4" name="Swarmyard"/>
+        <card number="4" name="Thrumming Stone"/>
+    </zone>
+</cockatrice_deck>
