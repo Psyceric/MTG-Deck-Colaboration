@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Behind You!</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Mtenda Herder"/>
+        <card number="4" name="Benalish Cavalry"/>
+        <card number="2" name="Knight of the Holy Nimbus"/>
+        <card number="2" name="Zhalfirin Crusader"/>
+        <card number="4" name="Riftmarked Knight"/>
+        <card number="2" name="Pentarch Paladin"/>
+        <card number="4" name="Gustcloak Cavalier"/>
+        <card number="4" name="Cavalry Master"/>
+        <card number="2" name="Outrider en-Kor"/>
+        <card number="4" name="Knight of Valor"/>
+        <card number="2" name="Zhalfirin Commander"/>
+        <card number="4" name="Knight of Sursi"/>
+        <card number="4" name="Sidar Jabari"/>
+        <card number="21" name="Plains"/>
+    </zone>
+</cockatrice_deck>

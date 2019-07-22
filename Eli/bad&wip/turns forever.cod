@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>turns forever</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Time Vault"/>
+        <card number="4" name="Voltaic Key"/>
+        <card number="4" name="Tinker"/>
+        <card number="4" name="Inventors' Fair"/>
+        <card number="4" name="Fabricate"/>
+        <card number="4" name="Trinket Mage"/>
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="4" name="Drafna's Restoration"/>
+        <card number="2" name="Etherium Sculptor"/>
+        <card number="2" name="Blightsteel Colossus"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="16" name="Island"/>
+        <card number="4" name="Glint-Nest Crane"/>
+        <card number="2" name="Myr Retriever"/>
+        <card number="4" name="Armillary Sphere"/>
+    </zone>
+</cockatrice_deck>

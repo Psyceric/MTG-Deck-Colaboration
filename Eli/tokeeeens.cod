@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>tokeeeens</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Wayfaring Temple"/>
+        <card number="2" name="Vitu-Ghazi Guildmage"/>
+        <card number="2" name="Trostani, Selesnya's Voice"/>
+        <card number="2" name="Scion of Vitu-Ghazi"/>
+        <card number="2" name="Rootborn Defenses"/>
+        <card number="3" name="Growing Ranks"/>
+        <card number="4" name="Druid's Deliverance"/>
+        <card number="3" name="Anointed Procession"/>
+        <card number="2" name="Alive // Well"/>
+        <card number="2" name="Anointer Priest"/>
+        <card number="3" name="Intangible Virtue"/>
+        <card number="2" name="Beacon of Creation"/>
+        <card number="2" name="Brimaz, King of Oreskos"/>
+        <card number="4" name="Graypelt Refuge"/>
+        <card number="5" name="Forest"/>
+        <card number="5" name="Plains"/>
+        <card number="4" name="Arctic Flats"/>
+        <card number="2" name="Voice of Resurgence"/>
+        <card number="2" name="Captain's Call"/>
+        <card number="1" name="Epic Struggle"/>
+        <card number="2" name="Captain of the Watch"/>
+        <card number="2" name="Thopter Squadron"/>
+    </zone>
+</cockatrice_deck>

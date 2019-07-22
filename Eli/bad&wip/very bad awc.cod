@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Shapesharer"/>
+        <card number="4" name="Artisan of Forms"/>
+        <card number="4" name="Cackling Counterpart"/>
+        <card number="4" name="Fated Infatuation"/>
+        <card number="4" name="Rite of Replication"/>
+        <card number="4" name="Vesuvan Doppelganger"/>
+        <card number="4" name="Spitting Image"/>
+        <card number="4" name="Saheeli's Artistry"/>
+        <card number="4" name="Worldly Tutor"/>
+        <card number="4" name="Botanical Sanctum"/>
+        <card number="4" name="Temple of Mystery"/>
+        <card number="4" name="Thornwood Falls"/>
+        <card number="4" name="Breeding Pool"/>
+        <card number="4" name="Biovisionary"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Island"/>
+    </zone>
+</cockatrice_deck>

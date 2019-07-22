@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Dowsing Dagger"/>
+        <card number="1" name="Prying Blade"/>
+        <card number="1" name="Quietus Spike"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Wu Light Cavalry"/>
+        <card number="1" name="Wu Scout"/>
+        <card number="1" name="Wei Scout"/>
+        <card number="1" name="Wei Strike Force"/>
+        <card number="1" name="Wei Night Raiders"/>
+        <card number="1" name="Wu Elite Cavalry"/>
+        <card number="1" name="Lu Meng, Wu General"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Darkslick Shores"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Jwar Isle Refuge"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Arm with Aether"/>
+        <card number="1" name="Curiosity"/>
+        <card number="1" name="Hands of Binding"/>
+        <card number="1" name="Helm of the Ghastlord"/>
+        <card number="1" name="Hidden Strings"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Scytheclaw"/>
+        <card number="1" name="Specter's Shroud"/>
+        <card number="1" name="Sword of Body and Mind"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Sword of Light and Shadow"/>
+        <card number="1" name="Mental Vapors"/>
+        <card number="1" name="Midnight Recovery"/>
+        <card number="1" name="Shadow Slice"/>
+        <card number="1" name="Undercity Plague"/>
+        <card number="1" name="Sigil of Sleep"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Call of the Nightwing"/>
+        <card number="1" name="Paranoid Delusions"/>
+        <card number="1" name="Thassa's Emissary"/>
+        <card number="1" name="Ink-Eyes, Servant of Oni"/>
+        <card number="1" name="Okiba-Gang Shinobi"/>
+        <card number="1" name="Throat Slitter"/>
+        <card number="1" name="Ninja of the New Moon"/>
+        <card number="1" name="Mist-Syndicate Naga"/>
+        <card number="1" name="Moonblade Shinobi"/>
+        <card number="1" name="Walker of Secret Ways"/>
+        <card number="1" name="Mistblade Shinobi"/>
+        <card number="1" name="Sakashima's Student"/>
+        <card number="1" name="Higure, the Still Wind"/>
+        <card number="1" name="Fallen Shinobi"/>
+        <card number="1" name="Silent-Blade Oni"/>
+        <card number="1" name="Ingenious Infiltrator"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Lu Xun, Scholar General"/>
+        <card number="1" name="Sun Ce, Young Conquerer"/>
+        <card number="1" name="Xiahou Dun, the One-Eyed"/>
+        <card number="1" name="Cao Ren, Wei Commander"/>
+        <card number="1" name="Zhang He, Wei General"/>
+        <card number="1" name="Wei Elite Companions"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Preordain"/>
+        <card number="12" name="Island"/>
+        <card number="12" name="Swamp"/>
+        <card number="1" name="Sun Quan, Lord of Wu"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Yuriko, the Tiger's Shadow"/>
+    </zone>
+</cockatrice_deck>
