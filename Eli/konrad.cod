@@ -65,9 +65,7 @@
         <card number="1" name="Kokusho, the Evening Star"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Palace Siege"/>
         <card number="1" name="Wake the Dead"/>
-        <card number="1" name="Shriekmaw"/>
         <card number="1" name="Dutiful Attendant"/>
         <card number="1" name="Massacre Girl"/>
         <card number="1" name="Magus of the Coffers"/>
@@ -77,8 +75,10 @@
         <card number="1" name="Trepanation Blade"/>
         <card number="1" name="Mimic Vat"/>
         <card number="1" name="Grimoire of the Dead"/>
-        <card number="1" name="No Rest for the Wicked"/>
         <card number="1" name="Cabal Stronghold"/>
         <card number="26" name="Swamp"/>
+        <card number="1" name="Palace Siege"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Shriekmaw"/>
     </zone>
 </cockatrice_deck>
