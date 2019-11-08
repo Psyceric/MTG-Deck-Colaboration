@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Ayula, Queen Among Bears"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Werebear"/>
+        <card number="1" name="Balduvian Bears"/>
+        <card number="1" name="Spectral Bears"/>
+        <card number="1" name="Bear Cub"/>
+        <card number="1" name="Mother Bear"/>
+        <card number="1" name="Forest Bear"/>
+        <card number="1" name="Ashcoat Bear"/>
+        <card number="1" name="Runeclaw Bear"/>
+        <card number="1" name="Grizzly Bears"/>
+        <card number="1" name="Ulvenwald Bear"/>
+        <card number="1" name="Pale Bears"/>
+        <card number="1" name="Alpine Grizzly"/>
+        <card number="1" name="Dragon-Scarred Bear"/>
+        <card number="1" name="Vivien's Grizzly"/>
+        <card number="1" name="Razorclaw Bear"/>
+        <card number="1" name="River Bear"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Druid's Familiar"/>
+        <card number="1" name="Golden Bear"/>
+        <card number="1" name="Striped Bears"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Flaxen Intruder"/>
+        <card number="1" name="Bearscape"/>
+        <card number="1" name="Words of Wilding"/>
+        <card number="1" name="Caller of the Claw"/>
+        <card number="1" name="Ayula's Influence"/>
+        <card number="1" name="Kamahl's Summons"/>
+        <card number="1" name="Grizzly Fate"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Awaken the Bear"/>
+        <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Muraganda Petroglyphs"/>
+        <card number="1" name="Giant Growth"/>
+        <card number="1" name="Overrun"/>
+        <card number="1" name="Wave of Vitriol"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Growing Rites of Itlimoc"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Foe-Razer Regent"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Relic Crush"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Paragon of Eternal Wilds"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Grow from the Ashes"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Rishkar, Peema Renegade"/>
+        <card number="1" name="Bramble Sovereign"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="27" name="Forest"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Soul of the Harvest"/>
+    </zone>
+</cockatrice_deck>

@@ -37,7 +37,6 @@
         <card number="1" name="Ghoulcaller's Bell"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Sands of Delirium"/>
-        <card number="1" name="Phyrexian Reclamation"/>
         <card number="1" name="Whip of Erebos"/>
         <card number="1" name="Rise of the Dark Realms"/>
         <card number="1" name="Life's Finale"/>
@@ -80,5 +79,6 @@
         <card number="1" name="Palace Siege"/>
         <card number="1" name="Ulamog, the Infinite Gyre"/>
         <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Morality Shift"/>
     </zone>
 </cockatrice_deck>
